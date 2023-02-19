@@ -2,7 +2,7 @@
 title: "Project Draft 0 inflated"
 author: "Kevin Diaz Gochez"
 date: "6/25/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
