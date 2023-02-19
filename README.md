@@ -58,7 +58,7 @@ Two files are uploaded under this repo.
 <!-- CONTACT -->
 ## Contact
 
-Your Name  - kevinfd12@gmail.com
+kevinfd12@gmail.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/kevinfd12/Suicidal-Ideation)
 
