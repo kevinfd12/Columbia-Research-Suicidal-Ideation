@@ -8,7 +8,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">Incidence of Clinical Suicidal Ideation and its Clinical Predictors</h3>
+<h2 align="center">Incidence of Clinical Suicidal Ideation and its Clinical Predictors</h2>
 
   <p align="center">
     Research was completed under the guidance of Dr. Hanga Galfalvy within the Departments of Psychiatry and Biostatistics at Columbia University.
