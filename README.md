@@ -1,13 +1,6 @@
 <!-- PROJECT SHIELDS -->
-
-[forks-url]: https://github.com/kevinfd12/Suicidal-Ideation/network/members
-[stars-url]: https://github.com/kevinfd12/Suicidal-Ideation/stargazers
-[issues-url]: https://github.com/kevinfd12/Suicidal-Ideation/issues
 [linkedin-url]: https://www.linkedin.com/in/kevin-diaz-gochez
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
