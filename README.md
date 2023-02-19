@@ -76,9 +76,7 @@ Two files are uploaded under this repo.
 - R code
 
 ### Built With
-[RStudio-shield]: https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white
-[RStudio-url]: https://www.rstudio.com/
-[![RStudio][RStudio-shield]][RStudio-url]
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 <br />
 [![RStudio Community: R Markdown](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2FR-Markdown.json)](https://community.rstudio.com/c/R-Markdown)
 <br />
